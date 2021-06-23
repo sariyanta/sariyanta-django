@@ -1,0 +1,20 @@
+{
+  "name": "sariyanta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch pages/static/pages/sass/styles.scss:pages/static/pages/styles.css --style compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.0",
+    "sass": "^1.35.1"
+  }
+}
